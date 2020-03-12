@@ -1,0 +1,2 @@
+# MachiKania-BUSY_CUSOR
+BUSY CURSOR
