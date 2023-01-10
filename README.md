@@ -1,2 +1,4 @@
 # MachiKania-BUSY_CUSOR
 BUSY CURSOR
+
+BUSYCSR.BASを実行してください。
